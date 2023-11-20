@@ -1,0 +1,33 @@
+{
+    "_meta": {
+		"sources": [
+			{
+				"json": "WFgtE",
+				"abbreviation": "WFgtE",
+				"full": " Wayfinders Guide to Elvanius",
+				"authors": [
+					"Adam Henderson"
+				],
+				"convertedBy": [
+					"Agusia Krzywinska",
+					"Adam Henderson"
+				],
+				"version": "0.0.1"
+			}
+		],
+		"dateAdded": 1700443168,
+		"dateLastModified": 1700443168
+	},
+    "class":[
+
+    ],
+    "background": [
+
+    ],
+    "feat": [
+
+    ],
+    "spell": [
+
+    ]
+}
